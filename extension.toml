@@ -4,4 +4,4 @@ version = "1.0.1"
 schema_version = 1
 authors = ["Dar Zaccaro <darzaccaro@gmail.com>"]
 description = "A color theme for Zed inspired by Jonathan Blow's compiler livestreams."
-repository = "https://github.com/darzaccaro/naysayer-theme"
+repository = "https://github.com/darzaccaro/naysayer-theme-zed"
